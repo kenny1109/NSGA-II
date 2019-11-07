@@ -1,2 +1,2 @@
 # NSGA-II
-nsga-ii implemented by python3.5.
+nsga-2 implemented by python3.5.
